@@ -1,0 +1,35 @@
+.header { 
+    background-color: #F1F3FF;
+}
+
+.car-detail-hero { 
+    background-color: #F1F3FF;
+    height: 50vh;
+}
+
+.default-background { 
+    height: 15rem;
+    background-image: url("https://images.hindustantimes.com/auto/img/2021/12/28/600x338/Indian_cars_1640662074513_1640662081298.jpg");
+    border-radius: 10px;
+}
+
+.cars-data { 
+    padding-top: 3rem;
+}
+
+.car-image {
+    height: 250px;
+}
+
+.list { 
+    opacity: 70%;
+    margin-left: 25px;
+}
+
+.paket { 
+    height: 550px;
+}
+
+.paket-container { 
+    padding-top: 5rem;
+}
